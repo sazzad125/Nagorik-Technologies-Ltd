@@ -1,4 +1,4 @@
-# Build a question answering system for both bangla and english language using any open source LLM and fine tune it for My own data
+# Build a question answering system for english language using any open source LLM and fine tune it for My own data
 
 # Project Overview
 This project aims to set up a Python environment, install necessary libraries for machine learning, and demonstrate a simple use case involving loading and processing a dataset. This project uses tools such as torch, transformers, bitsandbytes, and others.
