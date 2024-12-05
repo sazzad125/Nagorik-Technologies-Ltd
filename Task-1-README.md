@@ -3,7 +3,6 @@
 
 
 ```markdown
-# Project: Machine Learning Environment Setup and Dataset Processing
 
 This project aims to set up a Python environment, install necessary libraries for machine learning, and demonstrate a simple use case involving loading and processing a dataset. The project utilizes tools such as torch, transformers, bitsandbytes, and others.
 
