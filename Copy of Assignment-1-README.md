@@ -1,8 +1,5 @@
 
 
-```markdown
-# Project: Distance Mapping Using Tensor Operations
-
 This project aims to implement a function that takes a sparse list of 2D coordinates and maps them to a 2D tensor of a specified resolution. The values of each pixel in the tensor correspond to the Euclidean distance between that pixel and the closest pixel containing a data point. The project supports batch processing and leverages PyTorch for tensor operations.
 
 ## Table of Contents
